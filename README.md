@@ -31,5 +31,5 @@ The two push buttons act as inputs.
 **5\. CONCLUSION:**
 
 This project helped us understand the working of an AND gate, circuit connections, component assembly, and practical soldering.
-
+![Result](build_and_gate.jpeg)
 ## 
